@@ -1,0 +1,1 @@
+Python öğrenirken yazdığım kodlar.
